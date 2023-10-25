@@ -45,3 +45,26 @@ function characterFrequency(str) {
   
 // Example usage:
 characterFrequency("Hello, world!"); // Counts and prints character frequency.
+
+
+
+
+
+
+// API
+// const generateFibonacci =(req, res) => {
+//     if (typeof n !== 'number' || n < 1 || !Number.isInteger(n)) {
+//       console.log("Please provide a positive whole number.");
+//       return;
+//     }
+  
+//     let sequence = [0, 1];
+//     if (n === 1) {
+//       console.log("Fibonacci Sequence:", sequence[0]);
+//     } else if (n >= 2) {
+//       for (let i = 2; i <= n; i++) {
+//         sequence[i] = sequence[i - 1] + sequence[i - 2];
+//       }
+//       console.log("Fibonacci Sequence:", sequence.join(', '));
+//     }
+// }

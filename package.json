@@ -5,7 +5,7 @@
   "main": "functions.js",
   "scripts": {
     "start": "node function.js",
-    "dev": "nodemon function.js"
+    "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
