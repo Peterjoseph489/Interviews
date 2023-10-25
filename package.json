@@ -1,0 +1,16 @@
+{
+  "name": "seerbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "scripts": {
+    "start": "node function.js",
+    "dev": "nodemon function.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
